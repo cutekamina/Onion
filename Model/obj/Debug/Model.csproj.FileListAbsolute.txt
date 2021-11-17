@@ -1,0 +1,6 @@
+C:\Users\Cute\source\repos\OnionAr\Model\bin\Debug\Model.dll
+C:\Users\Cute\source\repos\OnionAr\Model\bin\Debug\Model.pdb
+C:\Users\Cute\source\repos\OnionAr\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Cute\source\repos\OnionAr\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Cute\source\repos\OnionAr\Model\obj\Debug\Model.dll
+C:\Users\Cute\source\repos\OnionAr\Model\obj\Debug\Model.pdb

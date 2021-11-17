@@ -1,0 +1,9 @@
+C:\Users\Cute\source\repos\OnionAr\ViewModel\bin\Debug\netstandard2.0\ViewModel.deps.json
+C:\Users\Cute\source\repos\OnionAr\ViewModel\bin\Debug\netstandard2.0\ViewModel.dll
+C:\Users\Cute\source\repos\OnionAr\ViewModel\bin\Debug\netstandard2.0\ViewModel.pdb
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.AssemblyInfo.cs
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.dll
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.pdb
+C:\Users\Cute\source\repos\OnionAr\ViewModel\obj\Debug\netstandard2.0\ViewModel.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Cute\source\repos\OnionAr\Entity\bin\Debug\netcoreapp3.1\Entity.deps.json
+C:\Users\Cute\source\repos\OnionAr\Entity\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.AssemblyInfo.cs
+C:\Users\Cute\source\repos\OnionAr\Entity\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Cute\source\repos\OnionAr\Entity\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Cute\source\repos\OnionAr\Entity\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Cute\source\repos\OnionAr\Entity\obj\Debug\netcoreapp3.1\Entity.csproj.CopyComplete

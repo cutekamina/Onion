@@ -1,0 +1,57 @@
+﻿
+@{
+    ViewData["Title"] = "StudentFormWithAjex";
+}
+
+<h1>StudentFormWithAjex</h1>
+
+<form action="">
+    <div class="row">
+        <div class="Col-sm-4">
+            Name <input type="text" id="name" name="name" />
+        </div>
+        <div class="Col-sm-4">
+            Email <input type="text" id="email" name="email" />
+        </div>
+        <div class="Col-sm-4">
+            RollNo <input type="text"id="RollNo" name="RollNo" />
+        </div>
+        <div class="Col-sm-4">
+            Subject <input type="text" id="subject" name="subject" />
+        </div>
+        <div class="Col-sm-4">
+            Coures <input type="text" name="batch"  id="batch"/>
+        </div>
+        <div class="Col-sm-4">
+            <button onclick="add();">Click me</button>
+        </div>
+    </div>
+
+</form>
+<script>
+    function Add() {
+        alert("check data");
+    var empObj = {  
+        batch: $('#batch').val(),  
+        name: $('#name').val(),  
+        email: $('#email').val(),  
+        RollNo: $('#RollNo').val(),  
+        Country: $('#subject').val()  
+    };  
+    $.ajax({  
+        url: "/Home/Add",  
+        data: JSON.stringify(empObj),  
+        type: "POST",  
+        contentType: "application/json;charset=utf-8",  
+        dataType: "json",  
+        success: function (result) {
+            alert("Data Saved");
+            //loadData();  
+            //$('#myModal').modal('hide');  
+        },  
+        error: function (errormessage) {  
+            alert(errormessage.responseText);  
+        }  
+    });  
+}  
+</script>

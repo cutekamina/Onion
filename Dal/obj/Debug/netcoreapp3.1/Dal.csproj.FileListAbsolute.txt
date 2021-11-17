@@ -1,0 +1,16 @@
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Cute\source\repos\OnionAr\Dal\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+C:\Users\Cute\source\repos\OnionAr\Dal\obj\Debug\netcoreapp3.1\Dal.pdb

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ViewModel.ViewModel.VmStudent>
+
+@{
+    ViewData["Title"] = "StudentList";
+}
+
+<h1>StudentList</h1>
+@if (Model!=null && Model.Count()>0)
+{
+<table class="table">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Rollno</td>
+            <td>Subject</td>
+            <td>Batch</td>
+            <td>Delete</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.RollNo</td>
+                <td>@item.Subject</td>
+                <td>@item.Batch</td>
+                <td><a href="~/home/DeleteByid?id=@item.ID" class="btn-danger">Delete</a></td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+}
+else
+{
+    <h1>Data not founds</h1>
+}
+
